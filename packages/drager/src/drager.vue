@@ -347,7 +347,7 @@ watch(
       }
     }
     
-    .es-drager-dot {
+    > .es-drager-dot {
       display: block;
     }
   }
